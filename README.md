@@ -1,9 +1,5 @@
 ### Hi I'm Abhyan Morkal 👋
-
-<!--
-**abhyanmorkal/abhyanmorkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhyanmorkal)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
+[![HitCount](http://hits.dwyl.com/abhyanmorkal/abhyanmorkal.svg)](http://hits.dwyl.com/abhyanmorkal/abhyanmorkal)
 
 - 🔭 I’m currently working on c lan
 - 🌱 I’m currently learning ...
