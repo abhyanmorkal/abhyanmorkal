@@ -8,6 +8,7 @@
 
 [![HitCount](http://hits.dwyl.com/abhyanmorkal/abhyanmorkal.svg)](http://hits.dwyl.com/abhyanmorkal/abhyanmorkal)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMorkalAbhyan)
+![GitHub followers](https://img.shields.io/github/followers/abhyanmorkal?style=social)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
