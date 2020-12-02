@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Developer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/abhyanmorkal?label=50&logo=abhyanmorkal&logoColor=black&style=social">
+[Github follower](https://img.shields.io/github/followers/abhyanmorkal?label=50&logo=abhyanmorkal&logoColor=black&style=social")
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?logo=abhyanmorkal&style=social&url=https%3A%2F%2Ftwitter.com%2FMorkalAbhyan">
 
 
