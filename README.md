@@ -6,6 +6,7 @@
 <p><em>Software Developer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/abhyanmorkal?label=50&logo=abhyanmorkal&logoColor=black&style=social">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?logo=abhyanmorkal&style=social&url=https%3A%2F%2Ftwitter.com%2FMorkalAbhyan">
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -63,4 +64,4 @@ Windows                  17 hrs 5 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/abhyanmorkal/waka-readme-stats)**
