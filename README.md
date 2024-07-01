@@ -6,7 +6,7 @@
 <p><em>Software Developer at <a href="https://counselling.admissionanytime.com/">Admission Anytime </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![HitCount](http://hits.dwyl.com/abhyanmorkal/abhyanmorkal.svg)](http://hits.dwyl.com/abhyanmorkal/abhyanmorkal)
+[![HitCount](http://hits.dwyl.com/abhyanmorkal/abhyanmorkal.svg)]([http://hits.dwyl.com/abhyanmorkal/abhyanmorkal](https://abhyan.pixentstudio.in/))
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMorkalAbhyan)
 ![GitHub followers](https://img.shields.io/github/followers/abhyanmorkal?style=social)
 
